@@ -1,4 +1,4 @@
-# Kireai.github.io
+# kireai.github.io
 #训练项目
 
 I love :coffee: :pizza:
